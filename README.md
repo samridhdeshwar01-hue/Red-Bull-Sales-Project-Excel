@@ -31,3 +31,8 @@ Operating margin stayed steady at about 30%, and sales peaked in Q3.
 TOOLS AND SKILLS USED
 
 Microsoft Excel, PivotTables, slicers, conditional formatting (data bars), combo charts with a dual axis, dashboard design and KPI reporting.
+
+![Dasboard Preview](https://github.com/samridhdeshwar01-hue/Red-Bull-Sales-Project-Excel/blob/main/Screenshot%20of%20Dashboard%201.png). 
+
+![Dasboard Preview](https://github.com/samridhdeshwar01-hue/Red-Bull-Sales-Project-Excel/blob/main/Screenshot%20of%20Dashboard%202.png). 
+
